@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ef66ee77.css",
+    "main.js": "/static/js/main.a5419897.js",
+    "static/js/787.4b24f717.chunk.js": "/static/js/787.4b24f717.chunk.js",
+    "static/media/iris-parks.jpg": "/static/media/iris-parks.4442e73464df16174ad1.jpg",
+    "static/media/resume.png": "/static/media/resume.33db4089e85f450c0e72.png",
+    "static/media/bobby-dino.png": "/static/media/bobby-dino.c6f9fc635ba8328d8e27.png",
+    "static/media/blue-dino.png": "/static/media/blue-dino.6c6362514d442215e744.png",
+    "index.html": "/index.html",
+    "main.ef66ee77.css.map": "/static/css/main.ef66ee77.css.map",
+    "main.a5419897.js.map": "/static/js/main.a5419897.js.map",
+    "787.4b24f717.chunk.js.map": "/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef66ee77.css",
+    "static/js/main.a5419897.js"
+  ]
+}
